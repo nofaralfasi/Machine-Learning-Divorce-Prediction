@@ -4,10 +4,10 @@
 
 Example for results of different algorithms on different features:
 
-![SVM](https://user-images.githubusercontent.com/38184193/92475995-f3022e80-f1e6-11ea-80ea-fe003ec3b755.png)
+![SVM](https://user-images.githubusercontent.com/38184193/92477983-24302e00-f1ea-11ea-8863-07ed9843b3bb.png)
 
 
-![ANN](https://user-images.githubusercontent.com/38184193/92475998-f4335b80-f1e6-11ea-8580-fb78deb16398.png)
+![ANN](https://user-images.githubusercontent.com/38184193/92477978-23979780-f1ea-11ea-9c9c-dce96d3c4d9c.png)
 
 
 ## Algorithms comparison:
